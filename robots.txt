@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /voice-samples
+
+Sitemap: https://remiritual.com/sitemap.xml
